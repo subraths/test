@@ -1,0 +1,5 @@
+{{#user}}
+Name: Subrath S
+Skills: HTML, CSS, JS, TS, Next.js, Node.js, Express.js, MongoDB, SQL, Java
+Email: subrath0626@gmail.com
+{{/user}}
